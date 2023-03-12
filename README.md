@@ -1,6 +1,6 @@
 # jquery
 
-## for finding the id of the row that input is checked
+## for finding the id of the row that input is checked in an iframe table
 ```
 $(document).ready(function() {
   $("#select_Contact").on("click", function() {
